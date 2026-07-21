@@ -1,0 +1,26 @@
+veriniceveo-sdk
+Copyright 2026 myvCISO contributors
+
+Licensed under the Apache License, Version 2.0.
+See the LICENSE file for the full license text.
+
+---
+
+DISCLAIMER / TRADEMARK NOTICE
+
+This software is an unofficial client for the verinice.veo REST API.
+It is not affiliated with, endorsed by, or sponsored by SerNet GmbH.
+
+"verinice", "verinice.veo", and "SerNet" are trademarks or registered
+trademarks of SerNet GmbH (and/or its licensors). Use of these names
+in this project is solely for identification of the third-party product
+and API. No trademark rights are granted.
+
+Upstream verinice.veo server software:
+  https://github.com/SerNet/verinice-veo
+  License: GNU Affero General Public License v3.0 (AGPL-3.0)
+
+Official documentation:
+  https://veo-docs.verinice.com/
+
+For full legal notices, see DISCLAIMER.md in this repository.
